@@ -19,9 +19,9 @@ for various reasons ! Any use of our software can be continued!
 
 ## 🔗 Join us
 
-[![twitter](https://img.shields.io/twitter/follow/ByxusMC_Net?color=%231DA1F2&label=Join%20us&logo=Twitter&style=for-the-badge)]()
-[![discord](https://img.shields.io/static/v1?label=Discord&message=discord.byxus.net&color=7289DA&logo=Discord&style=for-the-badge)]()
-[![website](https://img.shields.io/static/v1?label=Website&message=www.byxus.net&color=green&labelColor=darkgreen&style=for-the-badge)]()
+[![twitter](https://img.shields.io/twitter/follow/ByxusMC_Net?color=%231DA1F2&label=Join%20us&logo=Twitter&style=for-the-badge)](https://twitter.com/ByxusMC_Net)
+[![discord](https://img.shields.io/static/v1?label=Discord&message=discord.byxus.net&color=7289DA&logo=Discord&style=for-the-badge)](https://discord.byxus.net/)
+[![website](https://img.shields.io/static/v1?label=Website&message=www.byxus.net&color=green&labelColor=darkgreen&style=for-the-badge)](https://www.byxus.net)
 <br/>
 <br/>
 ### Made with ❤ by ByxusStudio
